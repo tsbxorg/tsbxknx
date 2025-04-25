@@ -3,7 +3,7 @@ requires = ["setuptools>=62.3"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "xknx"
+name = "tsbxknx"
 authors = [
   { name = "Julius Mittenzwei", email = "julius@mittenzwei.com" },
   { name = "Matthias Alphart", email = "farmio@alphart.net" },
